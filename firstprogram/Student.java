@@ -1,9 +1,9 @@
 package firstprogram;
 
 public class Student {
+    
     public static void main(String[] args) {
-        System.out.println("tharun");
-        System.out.println("nithya");
-        System.out.println("rohith");
+        System.out.println("hello nithya");
     }
+    
 }
